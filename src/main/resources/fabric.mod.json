@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "svyatmod",
+	"version": "${version}",
+	"name": "SvyatMod",
+	"description": "This mod adds a new Svyat`s Fat Pocket Dimension with a lot of things to explore!",
+	"authors": [
+		"PO3ex"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/svyatmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.p3x.svyat_mod.SvyatMod"
+		],
+		"fabric-datagen": [
+			"net.p3x.svyat_mod.SvyatModDataGenerator"
+		],
+		"client": [
+			"net.p3x.svyat_mod.SvyatModClient"
+		]
+	},
+	"mixins": [
+		"svyatmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
