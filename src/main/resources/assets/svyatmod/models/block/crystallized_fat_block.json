@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "svyatmod:block/crystallized_fat_block"
+  }
+}

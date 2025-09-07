@@ -1,4 +1,9 @@
 {
   "item.svyatmod.fat": "Fat",
-  "item.svyatmod.crystallized_fat": "Crystallized Fat"
+  "item.svyatmod.crystallized_fat": "Crystallized Fat",
+
+  "block.svyatmod.fat_block": "Fat Block",
+  "block.svyatmod.crystallized_fat_block": "Crystallized Fat Block",
+
+  "itemgroup.svyatmod.svyat_mod_items": "Svyat Mod"
 }

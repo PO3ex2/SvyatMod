@@ -1,4 +1,9 @@
 {
   "item.svyatmod.fat": "Жир",
-  "item.svyatmod.crystallized_fat": "Кристализированный Жир"
+  "item.svyatmod.crystallized_fat": "Кристализированный Жир",
+
+  "block.svyatmod.fat_block": "Блок Жира",
+  "block.svyatmod.crystallized_fat_block": "Блок Кристализированного Жира",
+
+  "itemgroup.svyatmod.svyat_mod_items": "Свят Мод"
 }
