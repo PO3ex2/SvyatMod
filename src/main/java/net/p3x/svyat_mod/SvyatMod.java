@@ -2,6 +2,7 @@ package net.p3x.svyat_mod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.p3x.svyat_mod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +13,6 @@ public class SvyatMod implements ModInitializer {
 	//ya dolboyeb
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 }
