@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "svyatmod:crystallized_fat_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "svyatmod:crystallized_fat"
+  }
+}

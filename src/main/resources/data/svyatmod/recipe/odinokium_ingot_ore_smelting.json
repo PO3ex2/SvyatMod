@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.05,
+  "group": "svyat_mod_items",
+  "ingredient":{
+    "item": "svyatmod:odinokium_ore"
+  },
+  "result": {
+    "id": "svyatmod:odinokium_ingot"
+  }
+}

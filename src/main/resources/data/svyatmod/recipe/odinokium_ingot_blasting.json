@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.05,
+  "group": "svyat_mod_items",
+  "ingredient":{
+    "item": "svyatmod:raw_odinokium"
+  },
+  "result": {
+    "id": "svyatmod:odinokium_ingot"
+  }
+}

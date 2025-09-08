@@ -20,6 +20,9 @@ public class ModItemGroups {
                         entries.add(ModItems.CRYSTALLIZED_FAT);
                         entries.add(ModBlocks.FAT_BLOCK);
                         entries.add(ModBlocks.CRYSTALLIZED_FAT_BLOCK);
+                        entries.add(ModBlocks.ODINOKIUM_ORE);
+                        entries.add(ModItems.RAW_ODINOKIUM);
+                        entries.add(ModItems.ODINOKIUM_INGOT);
                     }).build());
 
     public static void registerItemGroups() {
