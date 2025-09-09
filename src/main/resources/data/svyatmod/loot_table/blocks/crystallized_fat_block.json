@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "svyatmod:fat_block"
+          "name": "svyatmod:crystallized_fat_block"
         }
       ],
       "rolls": 1.0
