@@ -23,7 +23,11 @@
 		],
 		"client": [
 			"net.p3x.svyat_mod.SvyatModClient"
+		],
+		"cardinal-components": [
+			"a.b.c.MyComponents"
 		]
+
 	},
 	"mixins": [
 		"svyatmod.mixins.json"
@@ -32,9 +36,16 @@
 		"fabricloader": ">=0.17.2",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"cardinal-components": ">=6.1.2"
 	},
 	"suggests": {
 		"another-mod": "*"
+	},
+
+	"custom": {
+		"cardinal-components": [
+			"svyatmod:silenced"
+		]
 	}
 }
