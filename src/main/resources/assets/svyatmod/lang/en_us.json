@@ -1,12 +1,13 @@
 {
-  "item.svyatmod.fat": "Fat",
   "item.svyatmod.crystallized_fat": "Crystallized Fat",
   "item.svyatmod.raw_odinokium": "Raw Odinokium",
   "item.svyatmod.odinokium_ingot": "Odinokium Ingot",
 
+  "block.svyatmod.fat": "Fat",
   "block.svyatmod.fat_block": "Fat Block",
   "block.svyatmod.crystallized_fat_block": "Crystallized Fat Block",
   "block.svyatmod.odinokium_ore": "Odinokium Ore",
+  "item.svyatmod.finiki": "Dates",
 
   "itemgroup.svyatmod.svyat_mod_items": "Svyat Mod"
 }

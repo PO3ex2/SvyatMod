@@ -1,12 +1,13 @@
 {
-  "item.svyatmod.fat": "Жир",
   "item.svyatmod.crystallized_fat": "Кристализированный Жир",
   "item.svyatmod.raw_odinokium": "Рудный Одинокиум",
   "item.svyatmod.odinokium_ingot": "Одинокиумный Слиток",
 
+  "block.svyatmod.fat": "Жир",
   "block.svyatmod.fat_block": "Блок Жира",
   "block.svyatmod.crystallized_fat_block": "Блок Кристализированного Жира",
   "block.svyatmod.odinokium_ore": "Одинокиумная Руда",
+  "item.svyatmod.finiki": "Финики",
 
   "itemgroup.svyatmod.svyat_mod_items": "Свят Мод"
 }

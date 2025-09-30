@@ -23,11 +23,7 @@
 		],
 		"client": [
 			"net.p3x.svyat_mod.SvyatModClient"
-		],
-		"cardinal-components": [
-			"a.b.c.MyComponents"
 		]
-
 	},
 	"mixins": [
 		"svyatmod.mixins.json"
@@ -41,11 +37,5 @@
 	},
 	"suggests": {
 		"another-mod": "*"
-	},
-
-	"custom": {
-		"cardinal-components": [
-			"svyatmod:silenced"
-		]
 	}
 }

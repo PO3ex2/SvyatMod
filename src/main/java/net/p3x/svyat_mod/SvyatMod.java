@@ -2,6 +2,7 @@ package net.p3x.svyat_mod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.p3x.svyat_mod.block.ModBlocks;
 import net.p3x.svyat_mod.item.ModItemGroups;
 import net.p3x.svyat_mod.item.ModItems;
@@ -19,5 +20,9 @@ public class SvyatMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+
+		FuelRegistry.INSTANCE.add(ModBlocks.FAT, 800);
+		FuelRegistry.INSTANCE.add(ModBlocks.FAT_BLOCK, 2000);
 	}
 }
